@@ -2,27 +2,21 @@
 
 ### I'm [Marees][homepage]
 
-A Full Stack developer from Chennai. I love building software products. Reach out to me on [twitter][twitter] if you'd like to talk ✌️
+A Full Stack developer from Chennai. I love building software products. Reach out to me on [twitter][twitter] if you'd like to talk 👯
 
 ### Stuff I'm really good at
 
-[![HTML5 and CSS3](https://github.com/FransLopez/logo-images/blob/master/logos/html5andcss3.png)](http://www.w3.org/) 
-
-[![JavaScript](http://3con14.biz/code/_data/js/intro/js-logo.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
-[![typescript](https://raw.githubusercontent.com/remojansen/logo.ts/master/ts.jpg)](https://www.typescriptlang.org/)
-
-[![React](https://raw.githubusercontent.com/jalbertsr/logo-badge-images/master/img/react_logo.png)](https://facebook.github.io/react/)
-
-[![NodeJS](https://github.com/FransLopez/logo-images/blob/master/logos/nodejs.png)](https://nodejs.org/)
-
-[![ExpressJS](https://github.com/MarioTerron/logo-images/blob/master/logos/expressjs.png)](http://expressjs.com///)
-
-
-[![Golang](https://tutorialedge.net/images/golang.png)](https://golang.org/)
-
-[![AWS](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_aws.png?raw=true)](https://aws.amazon.com/es/)
-
+<p>
+  <img height="40" src="https://github.com/FransLopez/logo-images/blob/master/logos/html5andcss3.png" alt="HTML5 and CSS3">
+  <img height="40" src="http://3con14.biz/code/_data/js/intro/js-logo.png" alt="JavaScript">
+  <img height="40" src="https://raw.githubusercontent.com/remojansen/logo.ts/master/ts.jpg" alt="Typescript">
+  <img height="40" src="https://raw.githubusercontent.com/jalbertsr/logo-badge-images/master/img/react_logo.png" alt="React">
+  <img height="40" src="https://github.com/FransLopez/logo-images/blob/master/logos/nodejs.png" alt="NodeJS">
+  <img height="40" src="https://github.com/MarioTerron/logo-images/blob/master/logos/expressjs.png" alt="ExpressJS">
+  <img height="40" src="https://tutorialedge.net/images/golang.png" alt="Golang">
+  <img height="40" src="https://i.imgur.com/VyjCJuz.png" alt="Docker">
+  <img height="40" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_aws.png?raw=true" alt="AWS">
+</p>
 
 [homepage]: http://sudomkdirjs.github.io
 [twitter]: https://twitter.com/sudomkdirjs
