@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 ### I'm [Marees][homepage]
-
-<h3> 🤝🏻 Connect with Me </h3>
 [![Twitter Badge](https://img.shields.io/badge/-marees-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sudomkdirjs)](https://twitter.com/sudomkdirjs) [![Linkedin Badge](https://img.shields.io/badge/-marees-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marees-sudomkdirjs/)](https://www.linkedin.com/in/marees-sudomkdirjs/)
 [![Gmail Badge](https://img.shields.io/badge/-mareesvlpt@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mareesvlpt@gmail.com)](mailto:mareesvlpt@gmail.com)
 
