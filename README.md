@@ -9,15 +9,23 @@ A Full Stack developer from Chennai. I love building software products.
 ### Stuff I'm really good at
 
 <p>
-  <img height="40" src="https://github.com/FransLopez/logo-images/blob/master/logos/html5andcss3.png" alt="HTML5 and CSS3">
-  <img height="40" src="http://3con14.biz/code/_data/js/intro/js-logo.png" alt="JavaScript">
-  <img height="40" src="https://raw.githubusercontent.com/remojansen/logo.ts/master/ts.jpg" alt="Typescript">
-  <img height="40" src="https://raw.githubusercontent.com/jalbertsr/logo-badge-images/master/img/react_logo.png" alt="React">
-  <img height="40" src="https://github.com/FransLopez/logo-images/blob/master/logos/nodejs.png" alt="NodeJS">
-  <img height="40" src="https://github.com/MarioTerron/logo-images/blob/master/logos/expressjs.png" alt="ExpressJS">
-  <img height="40" src="https://tutorialedge.net/images/golang.png" alt="Golang">
-  <img height="40" src="https://i.imgur.com/VyjCJuz.png" alt="Docker">
-  <img height="40" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_aws.png?raw=true" alt="AWS">
+  <img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="HTML5">
+  <img height="50" src="http://3con14.biz/code/_data/js/intro/js-logo.png" alt="JavaScript">
+  <img height="50" src="https://raw.githubusercontent.com/remojansen/logo.ts/master/ts.jpg" alt="Typescript">
+  <img height="50" src="https://raw.githubusercontent.com/jalbertsr/logo-badge-images/master/img/react_logo.png" alt="React">
+  <img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="NodeJS">
+  <img height="50" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="ExpressJS">
+  <img height="50" src="https://www.vectorlogo.zone/logos/hapijs/hapijs-ar21.svg" alt="HapiJS">
+  <img height="50" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="Golang">
+  <img height="50" src="https://i.imgur.com/VyjCJuz.png" alt="Docker">
+  <img height="50" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_aws.png?raw=true" alt="AWS">
+  <img height="50" src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="MySQL">
+  <img height="50" src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB">
+  <img height="50" src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original-wordmark.svg" alt="Redis">
+  <img height="50" src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg" alt="Elastic Search">
+  <img height="50" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins">
+  <img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT">
+  <img height="50" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="Linux">
 </p>
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sudomkdirjs&layout=compact)][github]
