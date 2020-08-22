@@ -20,6 +20,8 @@ A Full Stack developer from Chennai. I love building software products.
   <img height="40" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_aws.png?raw=true" alt="AWS">
 </p>
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sudomkdirjs&layout=compact)][github]
+
 [homepage]: http://sudomkdirjs.github.io
 [twitter]: https://twitter.com/sudomkdirjs
 [github]: https://github.com/sudomkdirjs
